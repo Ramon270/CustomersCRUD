@@ -1,0 +1,16 @@
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\bin\Debug\CustomersCRUD.exe.config
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\bin\Debug\CustomersCRUD.exe
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\bin\Debug\CustomersCRUD.pdb
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\bin\Debug\Negocio.dll
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\bin\Debug\Data.dll
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\bin\Debug\Negocio.pdb
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\bin\Debug\Data.pdb
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\obj\Debug\CustomersCRUD.csprojAssemblyReference.cache
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\obj\Debug\CustomersCRUD.frmRead.resources
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\obj\Debug\CustomersCRUD.Properties.Resources.resources
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\obj\Debug\CustomersCRUD.csproj.GenerateResource.cache
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\obj\Debug\CustomersCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\obj\Debug\CustomersCRUD.csproj.CopyComplete
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\obj\Debug\CustomersCRUD.exe
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\obj\Debug\CustomersCRUD.pdb
+C:\Users\Ramón\source\repos\CRUD\CustomersCRUD\obj\Debug\CustomersCRUD.frmRegisterUpdate.resources

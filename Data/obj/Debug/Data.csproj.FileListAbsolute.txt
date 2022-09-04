@@ -1,0 +1,6 @@
+C:\Users\Ramón\source\repos\CRUD\Data\bin\Debug\Data.dll
+C:\Users\Ramón\source\repos\CRUD\Data\bin\Debug\Data.pdb
+C:\Users\Ramón\source\repos\CRUD\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Ramón\source\repos\CRUD\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Ramón\source\repos\CRUD\Data\obj\Debug\Data.dll
+C:\Users\Ramón\source\repos\CRUD\Data\obj\Debug\Data.pdb
